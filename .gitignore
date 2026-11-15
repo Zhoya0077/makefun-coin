@@ -1,0 +1,2 @@
+# Local Solana mint secret; never include in a public entry.
+mint-keypair.json
